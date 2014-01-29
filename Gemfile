@@ -8,3 +8,4 @@ gem 'json'
 gem 'redis-objects'
 gem "dm-core", "~> 1.2.1"
 gem "dm-redis-adapter"
+gem "thin"
